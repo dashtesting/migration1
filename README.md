@@ -1,4 +1,5 @@
 # migration1
+> this repo was originally called "test-repo".  Renamed it to be more descriptive.
 
 ### Notes on our first migration
 
